@@ -1,5 +1,5 @@
 # Yahoo-Troll-Question-Detection
-NLP model to detect troll questions
+Machine Learning model using concepts of NLP to detect troll questions
 
 __Description__:
 
